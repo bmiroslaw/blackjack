@@ -1,1 +1,1 @@
-Tests for the scenarios are inside the BlackjackTests.class
+Tests for the scenarios are in blackjack/src/test/java/BlackjackTests.class

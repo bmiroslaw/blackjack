@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BlackjackTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-01-07T19:36:17" hostname="MacBook-Pro-Andrzej.local" time="0.028">
+  <properties/>
+  <testcase name="scenarioThree()" classname="BlackjackTests" time="0.015"/>
+  <testcase name="scenarioFive()" classname="BlackjackTests" time="0.005"/>
+  <testcase name="scenarioFour()" classname="BlackjackTests" time="0.0"/>
+  <testcase name="scenarioOne()" classname="BlackjackTests" time="0.0"/>
+  <testcase name="scenarioSix()" classname="BlackjackTests" time="0.0"/>
+  <testcase name="scenarioTwo()" classname="BlackjackTests" time="0.004"/>
+  <system-out><![CDATA[Player's hand is: King King Two equal to 22
+1. Hit
+2. Stand
+Player's hand is: King King Two equal to 22
+Player's hand is: King Queen equal to 20
+1. Hit
+2. Stand
+You drew an ACE, decide the value of the card
+1. 11
+2. 1
+Player's hand: 21
+1. Hit
+2. Stand
+Player's hand is: King Queen Ace equal to 21
+Player's hand is: King Ace equal to 21
+1. Hit
+2. Stand
+Player's hand is: King Ace equal to 21
+Player's hand is: King Two equal to 12
+1. Hit
+2. Stand
+Player's hand is: King Two equal to 12
+Player's hand is: Nine Ace equal to 20
+1. Hit
+2. Stand
+You drew an ACE, decide the value of the card
+1. 11
+2. 1
+Player's hand: 21
+1. Hit
+2. Stand
+Player's hand is: Nine Ace Ace equal to 21
+Player's hand is: King Two equal to 12
+1. Hit
+2. Stand
+Player draws Two 2
+Player's hand: 14
+1. Hit
+2. Stand
+Player's hand is: King Two Two equal to 14
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

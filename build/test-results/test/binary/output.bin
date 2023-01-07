@@ -1,0 +1,40 @@
+,Player's hand is: King King Two equal to 22
+1. Hit
+	2. Stand
+,Player's hand is: King King Two equal to 22
+)Player's hand is: King Queen equal to 20
+1. Hit
+	2. Stand
+.You drew an ACE, decide the value of the card
+1. 11
+2. 1
+Player's hand: 21
+1. Hit
+	2. Stand
+-Player's hand is: King Queen Ace equal to 21
+'Player's hand is: King Ace equal to 21
+1. Hit
+	2. Stand
+'Player's hand is: King Ace equal to 21
+'Player's hand is: King Two equal to 12
+1. Hit
+	2. Stand
+'Player's hand is: King Two equal to 12
+'Player's hand is: Nine Ace equal to 20
+1. Hit
+	2. Stand
+.You drew an ACE, decide the value of the card
+1. 11
+2. 1
+Player's hand: 21
+1. Hit
+	2. Stand
++Player's hand is: Nine Ace Ace equal to 21
+'Player's hand is: King Two equal to 12
+1. Hit
+	2. Stand
+Player draws Two 2
+Player's hand: 14
+1. Hit
+	2. Stand
++Player's hand is: King Two Two equal to 14
